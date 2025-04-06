@@ -1,1 +1,1 @@
-# Physic-Wallah-Assignement-for-my-side
+# Physic-Wallah-Assignement-from-pw
